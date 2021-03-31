@@ -4,7 +4,7 @@ A Telegram Video Compressor Bot By **This bot works for all!** No need to define
 [![Demo](https://img.shields.io/badge/Telegram-Demo%20Bot-blue?logo=telegram)](http://t.me/ABVidCompressBot)
 
 ## Easy Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nksama/VideoCompress)
 
 ### Support:
 <a href="https://t.me/CyberBoyAyushBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
