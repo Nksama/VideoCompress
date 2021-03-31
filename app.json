@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/AyushBots",
   "website": "https://t.me/AyushBots",
-  "repository": "https://github.com/CyberBoyAyush/VideoCompress",
+  "repository": "https://github.com/nksama/VideoCompress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
